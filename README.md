@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/verrmqa/rsschool-cv/cv
+https://verrmqa.github.io/rsschool-cv/cv 
