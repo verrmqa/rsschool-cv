@@ -11,8 +11,8 @@
   ##**My code examples**
  Here's part of the code for a project I've been working on recently
 
-//HTML
- `<   <div class="header__section header__section-top">
+HTML
+ ```   <div class="header__section header__section-top">
       <div class="container--main">
         <div class="header__top">
           <div class="header__top__section header__top__section-email">
@@ -37,9 +37,9 @@
         </div>
       </div>
     </div>
->`
-//CSS
-`<.header{
+```
+CSS
+```.header{
     background-color: #3C3C3B;
     width: 100%;
   }
@@ -73,7 +73,7 @@
   .header__top__phone .link:last-child:after{
     content: unset;
   }
-  >`
+  ```
   ##**Where i study**
   Now I passing a course on Udemy - https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/lecture/12569388#overview
   Link https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/lecture/12569388#overview
