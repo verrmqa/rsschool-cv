@@ -22,6 +22,27 @@ i, em { font-style: italic; }
 ul, ol, li, button, span { display: block; }
 button, a { cursor: pointer; }
 
+h1{
+  color:#3B7A57;
+}
+h2{
+  margin: 10px 0;
+  color:#00678a;
+}
+p{
+  margin-top: 10px;
+}
 .code{
   display: flex;
+}
+.main{
+  margin: 0 auto;
+  max-width: 1024px;
+}
+.pic{   
+  width: 198px;
+  height: 249px;
+}
+.contacts{
+  margin-bottom: 20px;
 }
