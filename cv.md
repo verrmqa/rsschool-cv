@@ -7,7 +7,7 @@ Since childhood, I sat at the computer, played video games, dealt with the etern
 
 ##**My experience**
 My programming skills are beginner level. I know well html, css, now I study javascript. Work with git, photoshop, VSCode. 
-And i have experience creating websites with cross-browser responsive layout, you can look at it in my portfolio at (https://mirk.space)
+And i have experience creating websites with cross-browser responsive layout, you can look at it in my portfolio at [My web-page](https://mirk.space)
 
 ##**My code examples**
 Here's part of the code for a project I've been working on recently
