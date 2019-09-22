@@ -1,14 +1,14 @@
 
-Hello!
+  #Hello!
 
- My name is Andrei Mirkulov.
-
+ ##My name is Andrei Mirkulov.
+  ##**About me**
  My life is dedicated to gaining new experience and knowledge. I have always been interested in creating new things and changing old things, and computer technology has always fascinated me, these opportunities to create tools for calculations and help people in different spheres of life, but in particular I was attracted to the prospects of creating their own small worlds, whether video games or websites.
  Since childhood, I sat at the computer, played video games, dealt with the eternal problems on older versions of windows, so with computer technology, I now talk to "you", and after many years trying to find myrself in other areas of product development, I decided to create  computer products.
-
+  ##**My experience**
  My programming skills are beginner level. I know well html, css, now I study javascript. Work with git, photoshop, VSCode. 
  And i have experience creating websites with cross-browser responsive layout, you can look at it in my portfolio at https://mirk.space
-
+  ##**My code examples**
  Here's part of the code for a project I've been working on recently
 
 //HTML
@@ -73,10 +73,10 @@ Hello!
   .header__top__phone .link:last-child:after{
     content: unset;
   }
-
+  ##**Where i study**
   Now I passing a course on Udemy - https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/lecture/12569388#overview
   Link https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/lecture/12569388#overview
-  
+  ##**My knowledge of English**
   My English is at the level of comprehension. I learned English at school, and due to my passion for computers, I developed my ability to practice understanding the description of programs and components that were in English. Also, I watch movies and TV series with subtitles, that is, at the moment I have no difficulties with the perception of the English language.
- 
+ ##**My contacts**
   You can contact me by the phone number +79277044552 or through email andreyqq@gmail.com. I exist in social network Vkontakte, my id there is /mao09
